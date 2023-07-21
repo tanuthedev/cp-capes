@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "id": "fabric-cpcapes",
   "version": "${version}",
-  "name": "cp-capes",
-  "description": "A fabric mod to add Cloaks+ Capes without hosts modification!",
+  "name": "Cloaks+ Capes",
+  "description": "An unofficial fabric mod to add Cloaks+ Capes without hosts modification!",
   "authors": [
-    "Dragonostic",
-    "tanudev"
+    "tanudev",
+    "Dragonostic"
   ],
   "contact": {
     "discord": "@tanudev"
   },
-  "license": "LGPL-2.1",
+  "license": "GNU LGPL v2.1",
   "icon": "assets/cpcapes/icon.png",
   "environment": "client",
   "entrypoints": {
@@ -36,7 +36,8 @@
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.github_releases": "https://github.com/mynameiskiriko/cp-capes"
+        "modmenu.github_releases": "https://github.com/tanuthedev/cp-capes",
+        "modmenu.discord": "https://discord.gg/cloaks"
       }
     }
   }

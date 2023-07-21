@@ -24,6 +24,7 @@ public class PlayerHandler {
         Util.getMainWorkerExecutor().execute(() -> {
             try {
                 String uuid = player.getId().toString();
+                // if you ever need to, you can change the cape server URL here
                 NativeImageBackedTexture nIBT = getCapeFromURL(String.format("http://server.cloaksplus.com/capes/%s.png", player.getName()));
                 Identifier capeTexture = MinecraftClient.getInstance().getTextureManager().registerDynamicTexture("cpcapes-" + uuid, nIBT);
                 capes.put(uuid, capeTexture);
