@@ -6,6 +6,7 @@ public class capes implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        
     }
 
 }

@@ -31,7 +31,7 @@ public abstract class SkinOptionsScreenMixin extends GameOptionsScreen {
 		at = @At("RETURN"),
 		method = "init()V")
 	public void iTInject(CallbackInfo info) {
-		cpbutton = new TexturedButtonWidget(this.width / 2 - 179, this.height / 6, 22, 20, 0, 0, 20, CPBUTTON_TEXTURE, 32, 64, (buttonWidget) -> {
+		cpbutton = new TexturedButtonWidget(this.width / 2 - 179, this.height / 6, 20, 20, 0, 0, 20, CPBUTTON_TEXTURE, 32, 64, (buttonWidget) -> {
 			Util.getOperatingSystem().open(url);
 		});
 		cpbutton.setTooltip(Tooltip.of(CPBUTTON_TOOLTIP));
