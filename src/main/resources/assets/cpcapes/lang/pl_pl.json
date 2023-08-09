@@ -1,3 +1,5 @@
 {
-    "cpcapes.button.discord": "§f§lDiscord Cloaks+\n§fTu możesz spersonalizować swoją pelerynkę!\n\n§eKliknij aby otworzyć w przeglądarce!"
+    "cpcapes.button.discord": "§f§lDiscord Cloaks+\n§fTu możesz spersonalizować swoją pelerynkę!\n\n§eKliknij aby otworzyć w przeglądarce!",
+    "cpcapes.loaderr.title": "§eBłąd wczytywania peleryny!",
+    "cpcapes.loaderr.description": "Wystąpił błąd podczas wczytywania twojej peleryny.\nMożesz poprosić o pomoc na stronie GitHub tego projektu.\n§ehttps://re.tanu.lol/cpgh"
 }

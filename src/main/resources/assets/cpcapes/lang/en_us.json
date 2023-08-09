@@ -1,3 +1,5 @@
 {
-    "cpcapes.button.discord": "§f§lCloaks+ Discord\n§fYou can customize your cloak here!\n\n§eClick to open in browser!"
+    "cpcapes.button.discord": "§f§lCloaks+ Discord\n§fYou can customize your cloak here!\n\n§eClick to open in browser!",
+    "cpcapes.loaderr.title": "§eYour cape failed to load!",
+    "cpcapes.loaderr.description": "There was an error trying to load your cape.\nYou can ask for support on the mod's GitHub page:\n§ehttps://re.tanu.lol/cpgh"
 }
