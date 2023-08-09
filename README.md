@@ -2,9 +2,11 @@
    
 ![Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg) ![Quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/quilt_vector.svg)
 # cp-capes
-Cloaks+ Cape Mod. A fork of [OF-Capes by dragonostic](https://github.com/dragonostic/of-capes).  
+A [Cloaks+](https://cloaksplus.com) cape mod for Fabric/Quilt. A fork of [OF-Capes by dragonostic](https://github.com/dragonostic/of-capes).  
 **`⚠️ DISCLAIMER`** This modification is not affiliated with Cloaks+ LLC., Mojang Studios, or Microsoft Corporation.  
 
+## Download
+You can download the mod in the [releases](https://github.com/tanuthedev/cp-capes/releases/) tab.
 ## Expected Functionality
   
 - [x] Replacing Cape Texture
